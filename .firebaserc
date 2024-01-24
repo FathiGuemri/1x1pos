@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "market-46212": {
+      "hosting": {
+        "app": [
+          "market-46212"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "market-46212"
+  }
+}
